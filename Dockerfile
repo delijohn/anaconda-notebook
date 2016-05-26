@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER Nick Roth "nlr06886@gmail.com"
+#MAINTAINER Nick Roth "nlr06886@gmail.com"
 
 # Link in our build files to the docker image
 ADD src/ /tmp
